@@ -1,4 +1,4 @@
-# MessSystem (Easy Version)
+# MessSystem
 
 A beginner-friendly **Mess Management System** built using C programming.  
 This project demonstrates modular programming, file handling, struct usage, and basic menu-driven systems.
@@ -51,7 +51,7 @@ MessSystem/
 ## 🛠 How to Compile
 
 ```
-make
+gcc *.c -o mess_app
 ```
 
 This will generate the executable file **mess_app**.
